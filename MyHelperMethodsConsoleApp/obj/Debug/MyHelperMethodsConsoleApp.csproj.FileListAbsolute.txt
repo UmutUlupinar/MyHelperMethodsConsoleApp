@@ -1,0 +1,10 @@
+C:\Users\umutu\RiderProjects\ConsoleApplication1\MyHelperMethodsConsoleApp\bin\Debug\MyHelperMethodsConsoleApp.exe
+C:\Users\umutu\RiderProjects\ConsoleApplication1\MyHelperMethodsConsoleApp\bin\Debug\MyHelperMethodsConsoleApp.pdb
+C:\Users\umutu\RiderProjects\ConsoleApplication1\MyHelperMethodsConsoleApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\umutu\RiderProjects\ConsoleApplication1\MyHelperMethodsConsoleApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\umutu\RiderProjects\ConsoleApplication1\MyHelperMethodsConsoleApp\obj\Debug\MyHelperMethodsConsoleApp.csproj.AssemblyReference.cache
+C:\Users\umutu\RiderProjects\ConsoleApplication1\MyHelperMethodsConsoleApp\obj\Debug\MyHelperMethodsConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\umutu\RiderProjects\ConsoleApplication1\MyHelperMethodsConsoleApp\obj\Debug\MyHelperMethodsConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\umutu\RiderProjects\ConsoleApplication1\MyHelperMethodsConsoleApp\obj\Debug\MyHelperMethodsConsoleApp.csproj.CopyComplete
+C:\Users\umutu\RiderProjects\ConsoleApplication1\MyHelperMethodsConsoleApp\obj\Debug\MyHelperMethodsConsoleApp.exe
+C:\Users\umutu\RiderProjects\ConsoleApplication1\MyHelperMethodsConsoleApp\obj\Debug\MyHelperMethodsConsoleApp.pdb
