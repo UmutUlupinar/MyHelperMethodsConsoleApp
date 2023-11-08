@@ -1,3 +1,30 @@
+public class DictionaryHelper
+{
+    public static T ConvertKeyValuePairToObject<T>(KeyValuePair<string, object> kvp) where T : new()
+    {
+        T result = new T();
+
+        string key = kvp.Key;
+        object value = kvp.Value;
+
+        if (value != null)
+        {
+            var type = typeof(T);
+
+            var property = type.GetProperty(key);
+            if (property != null)
+            {
+                if (property.PropertyType.IsAssignableFrom(value.GetType()))
+                {
+                    property.SetValue(result, value);
+                }
+            }
+        }
+        return result;
+    }
+}
+
+// Example with specific class
 public class PosData
 {
     public string pos_id { get; set; }
